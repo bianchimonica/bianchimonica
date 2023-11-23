@@ -4,7 +4,7 @@
 
 <h4>About me</h4>
 
-- 🌱 I'm currently learning front-end development (Html, CSS, JavaScript and React) <br/>
+- 🌱 I'm currently learning front-end development <i>(Html, CSS, JavaScript and React) </i> <br/>
 
 - 🗺️ My dream is to travel the world  <br/>
 - 🏂 I'm learning to snowboard  <br/>
