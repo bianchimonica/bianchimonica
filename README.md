@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<h1>🙋🏻 I'm Monica </h1>
+
+<h4>About me</h4>
+
+- 🌱 I'm currently learning front-end development (Html, CSS, JavaScript and React) <br/>
+
+- 🗺️ My dream is to travel the world  <br/>
+- 🏂 I'm learning to snowboard  <br/>
+- 🏠 I like Interior Design  <br/>
+
+
+
 <!--
 **bianchimonica/bianchimonica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
